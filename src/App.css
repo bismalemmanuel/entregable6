@@ -1,0 +1,22 @@
+.App{
+    margin: 0 2em 0 2em;
+    display: flex;
+    flex-direction: column;
+}
+
+.home__all{
+    margin-top: 10rem;
+    
+}
+
+.footer{
+    margin-top: 3em;
+    
+    bottom: 0;
+    background: #3c3c3b;
+    padding: 60px 0;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
